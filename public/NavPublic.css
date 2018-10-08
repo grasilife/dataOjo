@@ -1,0 +1,93 @@
+@charset "utf-8";
+.none {
+	display: none;
+}
+.background{
+	background:rgba(10,50,100,0);
+
+}
+.navbar-default .navbar-nav>li>a{
+	font-weight: bolder;
+	color: white;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+	font-weight: bolder;
+	color: white;
+}
+.navbar-default .navbar-nav>.active>a{
+	font-weight: bolder;
+	color: white;
+	background: none;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	font-weight: bolder;
+	color: white;
+	background: none;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+	font-weight: bolder;
+    color: white;
+    background-color: rgba(255, 251, 251,0);
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: white;;
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: white;
+}
+.dropdown-menu>li>a:hover {
+    color: #262626;
+    text-decoration: none;
+    background-color: rgba(0,26,85,0.9);
+}
+.dropdown-menu>li>a:hover {
+    color: #262626;
+    text-decoration: none;
+    background-color:none;
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus, .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+    color:white;
+    background-color: none;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    font-weight: bolder;
+	color: white;
+	font-size: 16px;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    font-weight: bolder;
+    color: white;
+    font-size: 16px;
+    background-color: rgba(255, 251, 251,0);
+}
+.navbar-default .navbar-nav>li>a {
+    font-weight: bolder;
+	color: white;
+	font-size: 16px;
+}
+
+/* 小屏幕（平板，大于等于 768px） */
+
+@media (min-width: 768px) {
+	.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+		color: black;
+	}
+}
+
+
+/* 中等屏幕（桌面显示器，大于等于 992px） */
+
+@media (min-width: 992px) {
+	.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+		color: black;
+	}
+}
+
+
+/* 大屏幕（大桌面显示器，大于等于 1200px） */
+
+@media (min-width: 1200px) {
+	.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+		color: black;
+	}
+}

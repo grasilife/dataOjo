@@ -1,0 +1,1266 @@
+@charset "utf-8";
+#DataAssetsMobile h2{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+#DataAssetsMobile p{
+	font-size: 16px;
+	line-height: 28px;
+	text-align: center;
+	padding: 16px 0px 16px 0px ;
+}
+#DataAssetsMobile .group{
+	background: #EEEEEE;
+	padding: 16px 0px 16px 0px ;
+	margin-bottom: 16px;
+}
+
+.IntelligencePlatformIcon {
+	/* width: 120px; */
+	height: 60px;
+}
+.IntelligencePlatformTitle {
+	font-size: 16px;
+	color: #0a3264;
+	height: 38px;
+	line-height: 38px;
+	text-align: center;
+}
+.IntelligencePlatformParagraph {
+	font-size: 16px;
+	text-align: justify;
+	height: 138px;
+	line-height: 28px;
+}
+.titlebig {
+	font-size: 2em;
+	margin: 50px 0px 50px 0px;
+	font-weight: bold;
+	color: #0a3264;
+}
+.infoContain1 {
+	height: 300px;
+	background: #EEEEEE;
+}
+.infoContain2 {
+	height: 300px;
+	border-top: 1px solid #F3F3F3;
+	border-bottom: 1px solid #F3F3F3;
+}
+.infoContain3 {
+	height: 300px;
+	background: #EEEEEE;
+}
+.numBig {
+	font-size: 24px;
+	padding: 50px 0px 50px 0px;
+}
+.platform {
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+.number {
+	margin-top: 30px;
+}
+.english {
+	font-size: 40px;
+	color: #3ca5c3;
+	margin: 160px 0px 0px 16px;
+	font-weight: bold;
+	/* text-shadow: 5px 2px 6px #000; */
+}
+.china {
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+	margin: 0px 0px 0px 16px;
+}
+.chinaContain {
+	font-size: 28px;
+	font-weight: bold;
+	color: white;
+	height: 60px;
+	margin: 0px 0px 0px 16px;
+}
+.svgContain1 {
+	width: 182px;
+	height: 60px;
+	margin: 160px 0px 0px 16px;
+}
+.svgContain2 {
+	width: 193px;
+	height: 60px;
+	margin: 160px 0px 0px 16px;
+}
+.carousel-inner img {
+	margin: 0 auto;
+}
+.imgswitch1 {
+	background: url('../img/ProductsAndServices-img/服务和产品.jpg') no-repeat;
+	display: inline-block;
+	height: 360px;
+	width: 100%;
+	background-position: 0px 0px;
+	background-size: cover;
+}
+.imgswitch2 {
+	background: url('../img/ProductsAndServices-img/城市可视化.jpg') no-repeat;
+	display: inline-block;
+	height: 360px;
+	width: 100%;
+	background-position: -200px 0px;
+	background-size: cover;
+}
+.imgswitch3 {
+	background: url('../img/ProductsAndServices-img/数据智能可视化.jpg') no-repeat;
+	display: inline-block;
+	height: 360px;
+	width: 100%;
+	background-position: -200px 0px;
+	background-size: cover;
+}
+.title {
+	font-size: 2em;
+	font-weight: bold;
+	color: #0a3264;
+	margin-bottom: 28px;
+	margin-top: 68px;
+}
+.title2 {
+	font-size: 20px;
+	color: #0a3264;
+	margin-bottom: 68px;
+}
+#IndustryProducts .cardImg {
+	margin: 0px 0px 20px 0px ;
+	padding: 0px 2px 0px 2px ;
+}
+.instructions {
+	color: #3ca5c3;
+	padding-right: 12px;
+}
+#IndustryProducts .lineFont {
+	line-height: 28px;
+}
+.fontContain {
+	padding-top: 12px;
+}
+.serialNumber {
+	font-size: 44px;
+	color: #0a3264;
+	/* margin-bottom: 68px; */
+}
+.MainTitle {
+	font-size: 24px;
+	color: #0a3264;
+}
+.subtitle {
+	font-size: 20px;
+	color: #0a3264;
+}
+.Introduction {
+	font-size: 16px;
+	color: #3ca5c3;
+	margin: 30px 0px 30px 0px;
+}
+.cardimg1 {
+	background: url('../img/images/01数据资产01.png') no-repeat;
+	height: 300px;
+	width: 215px;
+	background-size: cover;
+	background-size: 215px 300px;
+	font-size: 24px;
+	color: #0a3264;
+	padding-top: 220px;
+	margin: 24px 60px 24px 80px;
+	-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+}
+.cardimg1:hover {
+	background: url('../img/images/01数据资产01-1.png') no-repeat;
+	height: 300px;
+	width: 215px;
+	background-size: cover;
+	background-size: 215px 300px;
+	font-size: 14px;
+	color: white;
+	padding-top: 20px;
+	margin: 24px 60px 24px 80px;
+	-webkit-transform: translateY(-20px);
+	-moz-transform: translateY(-20px);
+	-ms-transform: translateY(-20px);
+	transform: translateY(-20px);
+}
+.cardimg2 {
+	background: url('../img/images/01数据资产02.png') no-repeat;
+	height: 300px;
+	width: 215px;
+	background-size: cover;
+	background-size: 215px 300px;
+	font-size: 24px;
+	color: #0a3264;
+	padding-top: 220px;
+	margin: 24px 60px 24px 80px;
+	-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+}
+.cardimg2:hover {
+	background: url('../img/images/01数据资产02-1.png') no-repeat;
+	height: 300px;
+	width: 215px;
+	background-size: cover;
+	background-size: 215px 300px;
+	font-size: 14px;
+	color: white;
+	padding-top: 20px;
+	margin: 24px 60px 24px 80px;
+	-webkit-transform: translateY(-20px);
+	-moz-transform: translateY(-20px);
+	-ms-transform: translateY(-20px);
+	transform: translateY(-20px);
+}
+.cardimg3 {
+	background: url('../img/images/01数据资产03.png') no-repeat;
+	height: 300px;
+	width: 215px;
+	background-size: cover;
+	background-size: 215px 300px;
+	font-size: 24px;
+	color: #0a3264;
+	padding-top: 220px;
+	margin: 24px 60px 24px 80px;
+	-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+}
+.cardimg3:hover {
+	background: url('../img/images/01数据资产03-1.png') no-repeat;
+	height: 300px;
+	width: 215px;
+	background-size: cover;
+	background-size: 215px 300px;
+	font-size: 14px;
+	color: white;
+	padding-top: 20px;
+	margin: 24px 60px 24px 80px;
+	-webkit-transform: translateY(-20px);
+	-moz-transform: translateY(-20px);
+	-ms-transform: translateY(-20px);
+	transform: translateY(-20px);
+}
+.cardimg4 {
+	background: url('../img/images/01数据资产04.png') no-repeat;
+	height: 300px;
+	width: 215px;
+	background-size: cover;
+	background-size: 215px 300px;
+	font-size: 24px;
+	color: #0a3264;
+	padding-top: 220px;
+	margin: 24px 60px 24px 80px;
+	-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+}
+.cardimg4:hover {
+	background: url('../img/images/01数据资产04-1.png') no-repeat;
+	height: 300px;
+	width: 215px;
+	background-size: cover;
+	background-size: 215px 300px;
+	font-size: 14px;
+	color: white;
+	padding-top: 20px;
+	margin: 24px 60px 24px 80px;
+	-webkit-transform: translateY(-20px);
+	-moz-transform: translateY(-20px);
+	-ms-transform: translateY(-20px);
+	transform: translateY(-20px);
+}
+.cardimg5 {
+	background: url('../img/images/01数据资产05.png') no-repeat;
+	height: 300px;
+	width: 215px;
+	background-size: cover;
+	background-size: 215px 300px;
+	font-size: 24px;
+	color: #0a3264;
+	padding-top: 220px;
+	margin: 24px 60px 24px 80px;
+	-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+}
+.cardimg5:hover {
+	background: url('../img/images/01数据资产05-1.png') no-repeat;
+	height: 300px;
+	width: 215px;
+	background-size: cover;
+	background-size: 215px 300px;
+	font-size: 14px;
+	color: white;
+	padding-top: 20px;
+	margin: 24px 60px 24px 80px;
+	-webkit-transform: translateY(-20px);
+	-moz-transform: translateY(-20px);
+	-ms-transform: translateY(-20px);
+	transform: translateY(-20px);
+}
+.cardimg1 p {
+	margin-top: 30px;
+}
+.cardimg2 p {
+	margin-top: 30px;
+}
+.cardimg3 p {
+	margin-top: 30px;
+}
+.cardimg4 p {
+	margin-top: 30px;
+}
+.cardimg5 p {
+	margin-top: 30px;
+}
+.footer{
+	margin-bottom: 40px;
+}
+
+
+/* 小屏幕（平板，大于等于 768px） */
+
+@media (min-width: 768px) {
+	.IntelligencePlatformIcon {
+		/* width: 120px; */
+		height: 60px;
+	}
+	.IntelligencePlatformTitle {
+		font-size: 18px;
+		color: #0a3264;
+		height: 38px;
+		line-height: 38px;
+	}
+	.IntelligencePlatformParagraph {
+		font-size: 16px;
+		text-align: justify;
+		height: 28px;
+		line-height: 28px;
+	}
+	.titlebig {
+		font-size: 34px;
+		margin: 50px 0px 50px 0px;
+		font-weight: bold;
+		color: #0a3264;
+	}
+	.infoContain1 {
+		height: 300px;
+		background: #EEEEEE;
+	}
+	.infoContain2 {
+		height: 300px;
+		border-top: 1px solid #F3F3F3;
+		border-bottom: 1px solid #F3F3F3;
+	}
+	.infoContain3 {
+		height: 300px;
+		background: #EEEEEE;
+	}
+	.numBig {
+		font-size: 24px;
+		padding: 50px 0px 50px 0px;
+	}
+	.platform {
+		margin-top: 70px;
+		margin-bottom: 70px;
+	}
+	.number {
+		margin-top: 30px;
+	}
+	.english {
+		font-size: 50px;
+		color: #3ca5c3;
+		margin: 230px 0px 0px 85px;
+		font-weight: bold;
+		/* text-shadow: 5px 2px 6px #000; */
+	}
+	.china {
+		font-size: 34px;
+		font-weight: bold;
+		color: white;
+		margin: 0px 0px 0px 85px;
+	}
+	.chinaContain {
+		font-size: 34px;
+		font-weight: bold;
+		color: white;
+		height: 60px;
+		margin: 0px 0px 0px 85px;
+	}
+	.svgContain1 {
+		width: 182px;
+		height: 60px;
+		margin: 230px 0px 0px 85px;
+	}
+	.svgContain2 {
+		width: 193px;
+		height: 60px;
+		margin: 230px 0px 0px 85px;
+	}
+	.carousel-inner img {
+		margin: 0 auto;
+	}
+	.imgswitch1 {
+		background: url('../img/ProductsAndServices-img/服务和产品.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: 0px 0px;
+		background-size: cover;
+	}
+	.imgswitch2 {
+		background: url('../img/ProductsAndServices-img/城市可视化.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: 0px 0px;
+		background-size: cover;
+	}
+	.imgswitch3 {
+		background: url('../img/ProductsAndServices-img/数据智能可视化.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: -150px 0px;
+		background-size: cover;
+	}
+	.title {
+		font-size: 34px;
+		font-weight: bold;
+		color: #0a3264;
+		margin-bottom: 28px;
+		margin-top: 68px;
+	}
+	.title2 {
+		font-size: 20px;
+		color: #0a3264;
+		margin-bottom: 68px;
+	}
+	#IndustryProducts .cardImg {
+		margin-bottom: 20px;
+	}
+	.instructions {
+		color: #3ca5c3;
+		padding-right: 12px;
+	}
+	#IndustryProducts .lineFont {
+		line-height: 28px;
+	}
+	.fontContain {
+		padding-top: 12px;
+	}
+	.serialNumber {
+		font-size: 44px;
+		color: #0a3264;
+		/* margin-bottom: 68px; */
+	}
+	.MainTitle {
+		font-size: 24px;
+		color: #0a3264;
+	}
+	.subtitle {
+		font-size: 20px;
+		color: #0a3264;
+	}
+	.Introduction {
+		font-size: 16px;
+		color: #3ca5c3;
+		margin: 30px 0px 30px 0px;
+	}
+	.cardimg1 {
+		background: url('../img/images/01数据资产01.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 24px 60px 24px 80px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg1:hover {
+		background: url('../img/images/01数据资产01-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 24px 60px 24px 80px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg2 {
+		background: url('../img/images/01数据资产02.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 24px 60px 24px 80px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg2:hover {
+		background: url('../img/images/01数据资产02-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 24px 60px 24px 80px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg3 {
+		background: url('../img/images/01数据资产03.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 24px 60px 24px 80px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg3:hover {
+		background: url('../img/images/01数据资产03-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 24px 60px 24px 80px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg4 {
+		background: url('../img/images/01数据资产04.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 24px 60px 24px 80px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg4:hover {
+		background: url('../img/images/01数据资产04-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 24px 60px 24px 80px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg5 {
+		background: url('../img/images/01数据资产05.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 24px 60px 24px 80px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg5:hover {
+		background: url('../img/images/01数据资产05-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 24px 60px 24px 80px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg1 p {
+		margin-top: 30px;
+	}
+	.cardimg2 p {
+		margin-top: 30px;
+	}
+	.cardimg3 p {
+		margin-top: 30px;
+	}
+	.cardimg4 p {
+		margin-top: 30px;
+	}
+	.cardimg5 p {
+		margin-top: 30px;
+	}
+	.footer{
+		margin-bottom: 65px;
+	}
+}
+
+
+/* 中等屏幕（桌面显示器，大于等于 992px） */
+
+@media (min-width: 992px) {
+	.IntelligencePlatformIcon {
+		/* width: 120px; */
+		height: 60px;
+	}
+	.IntelligencePlatformTitle {
+		font-size: 20px;
+		color: #0a3264;
+		height: 38px;
+		line-height: 38px;
+	}
+	.IntelligencePlatformParagraph {
+		font-size: 16px;
+		text-align: justify;
+		height: 28px;
+		line-height: 28px;
+	}
+	.titlebig {
+		font-size: 34px;
+		margin: 50px 0px 50px 0px;
+		font-weight: bold;
+		color: #0a3264;
+	}
+	.infoContain1 {
+		height: 300px;
+		background: #EEEEEE;
+	}
+	.infoContain2 {
+		height: 300px;
+		border-top: 1px solid #F3F3F3;
+		border-bottom: 1px solid #F3F3F3;
+	}
+	.infoContain3 {
+		height: 300px;
+		background: #EEEEEE;
+	}
+	.numBig {
+		font-size: 24px;
+		padding: 50px 0px 50px 0px;
+	}
+	.platform {
+		margin-top: 70px;
+		margin-bottom: 70px;
+	}
+	.english {
+		font-size: 60px;
+		color: #3ca5c3;
+		margin: 180px 0px 0px 100px;
+		font-weight: bold;
+		/* text-shadow: 5px 2px 6px #000; */
+	}
+	.china {
+		font-size: 34px;
+		color: white;
+		margin: 0px 0px 0px 100px;
+	}
+	.chinaContain {
+		font-size: 34px;
+		font-weight: bold;
+		color: white;
+		height: 60px;
+		margin: 0px 0px 0px 100px;
+	}
+	.svgContain1 {
+		width: 182px;
+		height: 60px;
+		margin: 200px 0px 0px 100px;
+	}
+	.svgContain2 {
+		width: 193px;
+		height: 60px;
+		margin: 200px 0px 0px 100px;
+	}
+	.carousel-inner img {
+		margin: 0 auto;
+	}
+	.imgswitch1 {
+		background: url('../img/ProductsAndServices-img/服务和产品.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: 0px 0px;
+		background-size: cover;
+	}
+	.imgswitch2 {
+		background: url('../img/ProductsAndServices-img/城市可视化.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: 0px 0px;
+		background-size: cover;
+	}
+	.imgswitch3 {
+		background: url('../img/ProductsAndServices-img/数据智能可视化.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: 0px 0px;
+		background-size: cover;
+	}
+	.title {
+		font-size: 34px;
+		font-weight: bold;
+		margin-bottom: 28px;
+		margin-top: 68px;
+	}
+	.title2 {
+		font-size: 20px;
+		color: #0a3264;
+		margin-bottom: 68px;
+	}
+	#IndustryProducts .cardImg {
+		margin-bottom: 20px;
+	}
+	.instructions {
+		color: #3ca5c3;
+		padding-right: 12px;
+	}
+	#IndustryProducts .lineFont {
+		line-height: 28px;
+	}
+	.fontContain {
+		padding-top: 12px;
+	}
+	.serialNumber {
+		font-size: 44px;
+		color: #0a3264;
+		/* margin-bottom: 68px; */
+	}
+	.MainTitle {
+		font-size: 24px;
+		color: #0a3264;
+	}
+	.subtitle {
+		font-size: 20px;
+		color: #0a3264;
+	}
+	.Introduction {
+		font-size: 16px;
+		color: #3ca5c3;
+		margin: 30px 0px 30px 0px;
+	}
+	.cardimg1 {
+		background: url('../img/images/01数据资产01.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 0px 12px 0px 12px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg1:hover {
+		background: url('../img/images/01数据资产01-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 0px 12px 0px 12px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg2 {
+		background: url('../img/images/01数据资产02.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 0px 12px 0px 12px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg2:hover {
+		background: url('../img/images/01数据资产02-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 0px 12px 0px 12px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg3 {
+		background: url('../img/images/01数据资产03.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 0px 12px 0px 12px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg3:hover {
+		background: url('../img/images/01数据资产03-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 0px 12px 0px 12px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg4 {
+		background: url('../img/images/01数据资产04.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 0px 12px 0px 12px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg4:hover {
+		background: url('../img/images/01数据资产04-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 0px 12px 0px 12px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg5 {
+		background: url('../img/images/01数据资产05.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 0px 12px 0px 12px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg5:hover {
+		background: url('../img/images/01数据资产05-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 0px 12px 0px 12px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg1 p {
+		margin-top: 30px;
+	}
+	.cardimg2 p {
+		margin-top: 30px;
+	}
+	.cardimg3 p {
+		margin-top: 30px;
+	}
+	.cardimg4 p {
+		margin-top: 30px;
+	}
+	.cardimg5 p {
+		margin-top: 30px;
+	}
+	.footer{
+		margin-bottom: 65px;
+	}
+}
+
+
+/* 大屏幕（大桌面显示器，大于等于 1200px） */
+
+@media (min-width: 1200px) {
+	.IntelligencePlatformIcon {
+		/* width: 120px; */
+		height: 120px;
+	}
+	.IntelligencePlatformTitle {
+		font-size: 18px;
+		color: #0a3264;
+		height: 38px;
+		line-height: 38px;
+	}
+	.IntelligencePlatformParagraph {
+		font-size: 16px;
+		text-align: justify;
+		height: 28px;
+		line-height: 28px;
+	}
+	.titlebig {
+		font-size: 34px;
+		margin: 50px 0px 50px 0px;
+		font-weight: bold;
+		color: #0a3264;
+	}
+	.infoContain1 {
+		height: 300px;
+		background: #EEEEEE;
+	}
+	.infoContain2 {
+		height: 300px;
+		border-top: 1px solid #F3F3F3;
+		border-bottom: 1px solid #F3F3F3;
+	}
+	.infoContain3 {
+		height: 300px;
+		background: #EEEEEE;
+	}
+	.numBig {
+		font-size: 24px;
+		padding: 50px 0px 50px 0px;
+	}
+	.platform {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+	.english {
+		font-size: 60px;
+		color: #3ca5c3;
+		margin: 200px 0px 0px 380px;
+		font-weight: bold;
+		/* text-shadow:5px 2px 6px #000; */
+	}
+	.china {
+		font-size: 34px;
+		font-weight: bold;
+		color: white;
+		margin: 0px 0px 0px 380px;
+	}
+	.chinaContain {
+		font-size: 34px;
+		font-weight: bold;
+		color: white;
+		margin: 0px 0px 0px 380px;
+	}
+	.svgContain1 {
+		width: 182px;
+		height: 60px;
+		margin: 200px 0px 0px 380px;
+	}
+	.svgContain2 {
+		width: 193px;
+		height: 60px;
+		margin: 200px 0px 0px 380px;
+	}
+	.carousel-inner img {
+		margin: 0 auto;
+	}
+	.imgswitch1 {
+		background: url('../img/ProductsAndServices-img/服务和产品.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: 0 0px;
+		background-size: cover;
+	}
+	.imgswitch2 {
+		background: url('../img/ProductsAndServices-img/城市可视化.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: 0 0px;
+		background-size: cover;
+	}
+	.imgswitch3 {
+		background: url('../img/ProductsAndServices-img/数据智能可视化.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: 0 -200px;
+		background-size: cover;
+	}
+	.title {
+		font-size: 34px;
+		font-weight: bold;
+		color: #0a3264;
+		margin-bottom: 28px;
+		margin-top: 168px;
+	}
+	.title2 {
+		font-size: 20px;
+		color: #0a3264;
+		margin-bottom: 68px;
+	}
+	#IndustryProducts .cardImg {
+		margin-bottom: 20px;
+	}
+	.instructions {
+		color: #3ca5c3;
+		padding-right: 12px;
+	}
+	#IndustryProducts .lineFont {
+		line-height: 28px;
+	}
+	.fontContain {
+		padding-top: 12px;
+	}
+	.serialNumber {
+		font-size: 44px;
+		color: #0a3264;
+		/* margin-bottom: 68px; */
+	}
+	.MainTitle {
+		font-size: 24px;
+		color: #0a3264;
+	}
+	.subtitle {
+		font-size: 20px;
+		color: #0a3264;
+	}
+	.Introduction {
+		font-size: 16px;
+		color: #3ca5c3;
+		margin: 30px 0px 30px 0px;
+	}
+	.cardimg1 {
+		background: url('../img/images/01数据资产01.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 0px 7px 0px 7px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg1:hover {
+		background: url('../img/images/01数据资产01-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 0px 7px 0px 7px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg2 {
+		background: url('../img/images/01数据资产02.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 0px 7px 0px 7px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg2:hover {
+		background: url('../img/images/01数据资产02-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 0px 7px 0px 7px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg3 {
+		background: url('../img/images/01数据资产03.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 0px 7px 0px 7px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg3:hover {
+		background: url('../img/images/01数据资产03-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 0px 7px 0px 7px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg4 {
+		background: url('../img/images/01数据资产04.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 0px 7px 0px 7px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg4:hover {
+		background: url('../img/images/01数据资产04-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 0px 7px 0px 7px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg5 {
+		background: url('../img/images/01数据资产05.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 24px;
+		color: #0a3264;
+		padding-top: 220px;
+		margin: 0px 7px 0px 7px;
+		-webkit-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		-moz-transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+		transition: background 0.7s, color 0.7s, height 0.7s, padding-top 0.7s, margin-right 0.7s, background-size 0.7s, transform 0.7s;
+	}
+	.cardimg5:hover {
+		background: url('../img/images/01数据资产05-1.png') no-repeat;
+		height: 300px;
+		width: 215px;
+		background-size: cover;
+		background-size: 215px 300px;
+		font-size: 14px;
+		color: white;
+		padding-top: 20px;
+		margin: 0px 7px 0px 7px;
+		-webkit-transform: translateY(-20px);
+		-moz-transform: translateY(-20px);
+		-ms-transform: translateY(-20px);
+		transform: translateY(-20px);
+	}
+	.cardimg1 p {
+		margin-top: 30px;
+	}
+	.cardimg2 p {
+		margin-top: 30px;
+	}
+	.cardimg3 p {
+		margin-top: 30px;
+	}
+	.cardimg4 p {
+		margin-top: 30px;
+	}
+	.cardimg5 p {
+		margin-top: 30px;
+	}
+	.footer{
+		margin-top: 60px;
+		margin-bottom: 150px;
+	}
+}

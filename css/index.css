@@ -1,0 +1,401 @@
+.character {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 310px; 
+}
+.imgswitch1 {
+    background: url('../img/index-img/首页大图01.jpg') no-repeat;
+    display: inline-block;
+    height: 660px;
+    width: 100%;
+    background-position: -800px 0px;
+    background-size: cover;
+
+}
+.imgswitch2 {
+    background: url('../img/index-img/首页大图02.jpg') no-repeat;
+    display: inline-block;
+    height: 660px;
+    width: 100%;
+    background-position: -400px 0px;
+    background-size: cover;
+}
+#index-tbody .headline {
+    font-weight: bold;
+    font-size: 2em;
+    color: #0a3264;
+    margin-top: 68px;
+    text-align: center;
+}
+#index-tbody .official {
+    font-weight: bold;
+    font-size: 2em;
+    color:  #0a3264;
+    margin-top: 88px;
+    text-align: center;
+}
+#index-tbody .typeface {
+    font-size: 16px;
+    color: #0a3264;
+    margin-top: 24px;   
+    text-align: center;
+}
+
+#index-tbody .product {
+    font-size: 16px;
+    color: #777;
+    margin-left: 0px;
+}
+#index-tbody .terrace{
+    margin-top:210px;
+    margin-bottom: 640px;
+    text-align: center;
+    line-height: 36px;
+}
+#index-tbody .index-data {
+    margin-top: 28px;
+}
+#index-tbody .index-capacity {
+    margin-top: 28px;
+}
+#index-tbody .print{
+    text-align: center;
+    margin-top:520px;
+}
+#index-tbody .cardImg{
+    margin-top: 20px;
+}
+#index-tbody .index-img {
+    text-align: left;
+    display: inline-block;
+}
+
+#index-tbody .index-foot {
+    text-align: left;
+    margin-top: 90px;
+    /* margin-bottom: 140px; */
+}
+#index-tbody .contact{
+    text-align: center;
+
+}
+#index-tbody .gain{
+    margin-top: 88px;
+    margin-bottom:60px; 
+}   
+.adiCoin{
+    float: left;
+}
+.adiCoinGroup{
+    width: 284px;
+    margin: 0 auto;
+}
+.footer{
+    margin-bottom: 40px;
+}
+/* 小屏幕（平板，大于等于 768px） */
+
+@media (min-width: 768px) {
+    .character {
+        font-size: 34px;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        margin-top: 217px; 
+    }
+    .imgswitch1 {
+        background: url('../img/index-img/首页大图01.jpg') no-repeat;
+        display: inline-block;
+        height: 462px;
+        width: 100%;
+        background-position: 0 0px;
+        background-size: cover;
+    
+    }
+    .imgswitch2 {
+        background: url('../img/index-img/首页大图02.jpg') no-repeat;
+        display: inline-block;
+        height: 462px;
+        width: 100%;
+        background-position: 0 0px;
+        background-size: cover;
+    }
+    #index-tbody .headline {
+        font-weight: bold;
+        font-size: 34px;
+        color: #0a3264;
+        margin-top: 68px;
+        text-align: center;
+    }
+    #index-tbody .official {
+        font-weight: bold;
+        font-size: 34px;
+        color:  #0a3264;
+        margin-top: 117px;
+        text-align: center;
+    }
+    #index-tbody .typeface {
+        font-size: 20px;
+        color: #0a3264;
+        margin-top: 16px;
+        text-align: center;
+    }
+    
+    #index-tbody .index-data {
+        text-align: right;
+        margin-top: 48px;
+    }
+    #index-tbody .index-capacity {
+        text-align: left;
+        margin-top: 48px;
+    }
+    #index-tbody .product {
+        font-size: 14px;
+        color: #777;
+        margin-left: 14px;
+        display: inline-block;
+    }
+    #index-tbody .print{
+        margin-top: 302px;
+    }
+    #index-tbody .index-img {
+        text-align: left;
+        display: inline-block;
+    }
+
+    #index-tbody .index-foot {
+        text-align: left;
+        margin-top: 63px;
+        margin-bottom: 98px;
+    }
+    #index-tbody .contact{
+        text-align: center;
+    }
+    #index-tbody .gain{
+        margin-top: 61px;
+        margin-bottom:42px; 
+    }
+    
+	.adiCoin{
+		float: left;
+	}
+	.adiCoinGroup{
+		width: 568px;
+		margin: 0 auto;
+    }
+    .footer{
+		margin-bottom: 65px;
+	}
+}
+
+
+/* 中等屏幕（桌面显示器，大于等于 992px） */
+
+@media (min-width: 992px) {
+    .character {
+        font-size: 34px;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        margin-top: 310px; 
+    }
+    .imgswitch1 {
+        background: url('../img/index-img/首页大图01.jpg') no-repeat;
+        display: inline-block;
+        height: 660px;
+        width: 100%;
+        background-position: 0 0px;
+        background-size: cover;
+    
+    }
+    .imgswitch2 {
+        background: url('../img/index-img/首页大图02.jpg') no-repeat;
+        display: inline-block;
+        height: 660px;
+        width: 100%;
+        background-position: 0 0px;
+        background-size: cover;
+    }
+    #index-tbody {
+        margin: 0px auto;
+    }
+    
+    #index-tbody .headline {
+        font-weight: bold;
+        font-size: 34px;
+        color: #0a3264;
+        margin-top: 68px;
+        text-align: center;
+    }
+    #index-tbody .official {
+        font-weight: bold;
+        font-size: 34px;
+        color:  #0a3264;
+        margin-top: 151px;
+        text-align: center;
+    }
+    #index-tbody .typeface {
+        font-size: 20px;
+        color: #0a3264;
+        margin-top: 21px;
+        margin-bottom: 61px;
+        text-align: center;
+    }
+    
+    #index-tbody .index-data {
+        text-align: right;
+        margin-top: 61px;
+    }
+    #index-tbody .index-capacity {
+        text-align: left;
+        margin-top: 61px;
+    }
+    #index-tbody .product {
+        font-size: 24px;
+        color: #777;
+        margin-left: 18px;
+        display: inline-block;
+    }
+    #index-tbody .print{
+        margin-top: 660px;
+    }
+    #index-tbody .index-img {
+        text-align: left;
+    }
+    #index-tbody hr{
+        margin-top: 25px;
+    }
+    #index-tbody .index-foot {
+        text-align: left;
+        margin-top: 81px;
+        margin-bottom: 126px;
+    }
+    #index-tbody .contact{
+        text-align: center;
+    }
+    #index-tbody .gain{
+        margin-top: 78px;
+        margin-bottom:54px; 
+    }
+    
+	.adiCoin{
+		float: left;
+	}
+	.adiCoinGroup{
+		width: 852px;
+		margin: 0 auto;
+    }
+    .footer{
+		margin-bottom: 65px;
+	}
+}
+
+
+/* 大屏幕（大桌面显示器，大于等于 1200px） */
+
+@media (min-width: 1200px) {
+     .character {
+        font-size: 34px;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        margin-top: 310px; 
+    }
+    .imgswitch1 {
+        background: url('../img/index-img/首页大图01.jpg') no-repeat;
+        display: inline-block;
+        height: 660px;
+        width: 100%;
+        background-position: 0 0px;
+        background-size: cover;
+    
+    }
+    .imgswitch2 {
+        background: url('../img/index-img/首页大图02.jpg') no-repeat;
+        display: inline-block;
+        height: 660px;
+        width: 100%;
+        background-position: 0 -100px;
+        background-size: cover;
+    }
+    #index-tbody {
+        margin: 0px auto;
+    }
+    
+    #index-tbody .headline {
+        font-weight: bold;
+        font-size: 34px;
+        color: #0a3264;
+        margin-top: 168px;
+        text-align: center;
+    }
+    #index-tbody .official {
+        font-weight: bold;
+        font-size: 34px;
+        color:  #0a3264;
+        margin-top: 168px;
+        text-align: center;
+    }
+    #index-tbody .typeface {
+        font-size: 20px;
+        color: #0a3264;
+        margin-top: 24px;
+        margin-bottom: 68px;
+        text-align: center;
+    }
+    
+    #index-tbody .index-data {
+        text-align: right;
+        margin-top: 68px;
+    }
+    #index-tbody .index-capacity {
+        text-align: left;
+        margin-top: 68px;
+    }
+    #index-tbody .product {
+        font-size: 26px;
+        color: #777;
+        margin-left: 20px;
+        display: inline-block;
+        top: 10px;
+    }
+    #index-tbody .print{
+        margin-top: 660px;
+    }
+    #index-tbody .index-img {
+        text-align: left;
+        display: inline-block;
+      
+    }
+    #index-tbody hr{
+        margin-top: 25px;
+    }
+    #index-tbody .index-foot {
+        text-align: left;
+        margin-top: 90px;
+        margin-bottom: 140px;
+    }
+    #index-tbody .contact{
+        text-align: center;
+        height: 426px;
+    }
+    #index-tbody .gain{
+        margin-top: 88px;
+        margin-bottom:60px; 
+    }
+    
+    .adiCoin{
+		float: left;
+	}
+	.adiCoinGroup{
+        width:1205px;
+        height: 426px;
+		margin: 0 auto;
+    }
+    .footer{
+        margin-top: 60px;
+		margin-bottom: 150px;
+	}
+}

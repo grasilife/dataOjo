@@ -1,0 +1,230 @@
+@charset "utf-8";
+#tbody .list img{
+	width: 18px;
+	height: 18px;
+	margin: 0px 18px 0px 0px;
+	line-height: 18px;
+	vertical-align:middle;
+}
+#tbody .EngineersType{
+	font-size: 20px;
+	font-weight: bold;
+	margin: 40px 0px 20px 0px;
+	text-align: left;
+	color: #0a3264;
+	cursor:pointer;
+}
+#tbody .paragraph{
+	color: #777;
+	margin: 6px 16px;
+	font-size: 16px;
+}
+#tbody .Details{
+	margin: 16px 0px 16px 16px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #777;
+}
+.imgswitch {
+	background: url('../img/JoinUs-img/加入我们.jpg') no-repeat;
+	display: inline-block;
+	height: 360px;
+	width: 100%;
+	background-position: 38% 50%;
+	background-size: cover;
+}
+.imgswitch .english {
+    font-size: 40px;
+    color: #3ca5c3;
+    margin: 130px 0px 0px 16px;
+    font-weight: bold;
+    /* text-shadow: 5px 2px 6px #000; */
+}
+.imgswitch .china {
+	font-size: 28px;
+	font-weight: bold;
+    color: white;
+    margin: 0px 0px 0px 16px;
+}
+.arrowSvg{
+	width: 15px;
+	height: 15px;
+}
+.footer{
+	margin-bottom: 40px;
+}
+/* 小屏幕（平板，大于等于 768px） */
+@media (min-width: 768px) {
+	#tbody .list img{
+		width: 18px;
+		height: 18px;
+		margin: 0px 18px 0px 0px;
+		line-height: 18px;
+		vertical-align:middle;
+	}
+	#tbody .EngineersType{
+		font-size: 20px;
+		font-weight: bold;
+		margin: 40px 0px 20px 0px;
+		text-align: left;
+		color: #0a3264;
+		cursor:pointer;
+	}
+	#tbody .paragraph{
+		color: #777;
+		margin: 6px 16px;
+		font-size: 16px;
+	}
+	#tbody .Details{
+		margin: 16px 0px 16px 16px;
+		font-size: 16px;
+		font-weight: bold;
+		color: #777;
+	}
+	.imgswitch {
+		background: url('../img/JoinUs-img/加入我们.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: 38% 50%;
+		background-size: cover;
+	}
+	.imgswitch .english {
+		font-size: 60px;
+		color: #3ca5c3;
+		margin: 150px 0px 0px 26px;
+		font-weight: bold;
+		/* text-shadow: 5px 2px 6px #000; */
+	}
+	.imgswitch .china {
+		font-size: 38px;
+		color: white;
+		margin: 0px 0px 0px 26px;
+	}
+	.arrowSvg{
+		width: 15px;
+		height: 15px;
+	}
+	.footer{
+		margin-bottom: 65px;
+	}
+}
+
+/* 中等屏幕（桌面显示器，大于等于 992px） */
+@media (min-width: 992px) {
+	#tbody .list img{
+		width: 18px;
+		height: 18px;
+		margin: 0px 18px 0px 0px;
+		line-height: 18px;
+		vertical-align:middle;
+	}
+	#tbody .EngineersType{
+		font-size: 20px;
+		font-weight: bold;
+		margin: 40px 0px 30px 0px;
+		text-align: left;
+		color: #0a3264;
+		cursor:pointer;
+	}
+	#tbody .paragraph{
+		color: #777;
+		margin: 6px 16px;
+		font-size: 16px;
+	}
+	#tbody .Details{
+		margin: 16px 0px 16px 16px;
+		font-size: 16px;
+		font-weight: bold;
+		color: #777;
+	}
+	.imgswitch {
+		background: url('../img/JoinUs-img/加入我们.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: 38% 50%;
+		background-size: cover;
+	}
+	.imgswitch .english {
+		font-size: 80px;
+		color: #3ca5c3;
+		margin: 150px 0px 0px 110px;
+		font-weight: bold;
+		/* text-shadow: 5px 2px 6px #000; */
+	}
+	.imgswitch .china {
+		font-size: 48px;
+		color: white;
+		margin: 0px 0px 0px 110px;
+	}
+	.arrowSvg{
+		width: 15px;
+		height: 15px;
+	}
+	.footer{
+		margin-bottom: 65px;
+	}
+}
+
+/* 大屏幕（大桌面显示器，大于等于 1200px） */
+@media (min-width: 1200px) {
+	.recruitment{
+		padding:0px 75px 0px;
+	}
+	#tbody .list img{
+		width: 18px;
+		height: 18px;
+		margin: 0px 18px 0px 0px;
+		line-height: 18px;
+		vertical-align:middle;
+	}
+	#tbody .EngineersType{
+		font-size: 22px;
+		font-weight: bold;
+		margin: 40px 0px 20px 0px;
+		text-align: left;
+		color: #0a3264;
+		cursor:pointer;
+	}
+	#tbody .paragraph{
+		color: #777;
+		margin: 6px 16px;
+		font-size: 16px;
+	}
+	#tbody .Details{
+		margin: 16px 0px 16px 16px;
+		font-size: 20px;
+		font-weight: bold;
+		color: #777;
+	}
+	.imgswitch {
+		background: url('../img/JoinUs-img/加入我们.jpg') no-repeat;
+		display: inline-block;
+		height: 536px;
+		width: 100%;
+		background-position: 38% 50%;
+		background-size: cover;
+	}
+	.imgswitch .english {
+		font-size: 60px;
+		color: #3ca5c3;
+		margin: 200px 0px 0px 380px;
+		font-weight:bold;
+		/* text-shadow:5px 2px 6px #000; */
+	}
+	.imgswitch .china {
+		font-size: 34px;
+		font-weight: bold;
+		color: white;
+		margin: 0px 0px 0px 380px;
+	}
+	.arrowSvg{
+		width: 20px;
+		height: 20px;
+	}
+	.footer{
+		margin-top: 60px;
+		margin-bottom: 150px;
+	}
+}
